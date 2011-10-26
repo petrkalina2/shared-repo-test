@@ -1,0 +1,28 @@
+diff --git a/feasure-xyz-impl b/feasure-xyz-impl
+new file mode 100644
+index 0000000..243584a
+--- /dev/null
++++ b/feasure-xyz-impl
+@@ -0,0 +1 @@
++aasdf asdf asdf 
+\ No newline at end of file
+diff --git a/test b/test
+deleted file mode 100644
+index 0eebcc4..0000000
+--- a/test
++++ /dev/null
+@@ -1 +0,0 @@
+-dasdasd fasdasd f 
+\ No newline at end of file
+diff --git a/test2 b/test2
+index 1a31baa..ac7a3fe 100644
+--- a/test2
++++ b/test2
+@@ -1 +1,4 @@
+-afasdf asdf 
+\ No newline at end of file
++afasdf asdf 
++a
++asasdf
++asdf asdf 
+\ No newline at end of file
